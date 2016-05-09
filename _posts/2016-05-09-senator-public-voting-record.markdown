@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Promoting transparency: a senator public voting record"
-date:   2016-05-09 10:56:21 -0400
+date:   2016-05-09 11:47:00 -0400
 categories: senate
 ---
 
