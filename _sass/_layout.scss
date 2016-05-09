@@ -179,6 +179,10 @@
     margin-left: 0;
     list-style: none;
 
+    h2 {
+        margin-bottom: 0 !IMPORTANT;
+    }
+
     > li {
         margin-bottom: $spacing-unit;
     }
@@ -220,7 +224,6 @@
 
     h2 {
         font-size: 32px;
-        margin-bottom: 0;
 
         @include media-query($on-laptop) {
             font-size: 28px;
