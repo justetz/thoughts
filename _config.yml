@@ -11,8 +11,8 @@ paginate_path:       "page:num"
 title:               'Thoughts'
 tagline:             'by Justin Etzine'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 'http://etz.io/thoughts'
-baseurl:             ''
+url:                 'http://etz.io'
+baseurl:             '/thoughts'
 
 
 # Custom vars
