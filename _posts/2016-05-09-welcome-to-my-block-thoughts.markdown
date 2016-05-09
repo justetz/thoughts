@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my blog, *Thoughts*"
+title:  "Welcome to my blog, <i>Thoughts</i>"
 date:   2016-05-09 10:56:21 -0400
 categories: random
 ---
