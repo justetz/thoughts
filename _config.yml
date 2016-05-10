@@ -10,7 +10,7 @@ paginate_path:       "page:num"
 # Setup
 title:               'Thoughts'
 tagline:             'by Justin Etzine'
-description:         "I\'m part of RPI\'s Class of 2018, pursuing a dual Bachelor of Science degree in Computer Science and Information Technology \& Web Science. Check out my <a href=\"http://etz.io/\">homepage</a>!"
+description:         'A blog by Justin Etzine '
 url:                 'http://etz.io'
 baseurl:             '/thoughts'
 
